@@ -17,6 +17,14 @@ We created a dedicated Gmail for the team:
 Main folder (name: GitHappenss):  
 https://drive.google.com/drive/folders/1ExIBfJXv52us8Bz6f4XLw7WFyybBWZaO?usp=drive_link
 
+Folder structure beneath it:  
+- **BİL495** (or YAP495)  
+  - Sprint 1  
+  - Sprint 2  
+  - Sprint 3  
+  - Sprint 4  
+- **BİL496** (or YAP496)
+
 ## Trello Board
 We use Trello to manage our 495 sprints:  
 https://trello.com/b/GuISqpnF/githappenss  
